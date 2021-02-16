@@ -4,11 +4,19 @@ Nous utilisons la technologie pour autonomiser les citoyens et renforcer les lan
 ## [Nos données](https://github.com/senegalouvert)
 
 * [COVID-19](https://github.com/senegalouvert/COVID-19)
+* [Service Public](https://github.com/senegalouvert/servicepublic)
+* [Annuaire Sites Publics Senegal](https://github.com/senegalouvert/annuaire-sites-publics-senegal)
+* [AIR-Dakar](https://github.com/senegalouvert/)
+* [Sources de données sur le Sénégal](https://github.com/senegalouvert/sources)
+* [Bureau d'Appui a la Creation d'Entreprises](https://github.com/senegalouvert/bce-data)
+* [Carte electorale 2019](https://github.com/senegalouvert/Carte-electorale-2019)
+* [...](https://github.com/senegalouvert)
 
 ## [Notre code](https://github.com/Code-for-Senegal) 
 
 ## Nos projets
 
+* [Scratch si Wolof](https://github.com/KaayCoder/Scratch-si-wolof)
 * [Code pour le Sénégal patterns](https://github.com/senegalouvert/code-pour-le-senegal-patterns)
 * [App for city hall](https://github.com/diadjii/app_for_city_hall)
 * [OpenCOVID19 Senegal](https://github.com/OpenCOVID19-Senegal)
