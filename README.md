@@ -24,7 +24,8 @@ Nous utilisons la technologie pour autonomiser les citoyens et renforcer les lan
 
 ## Nos plateformes
 
-* [Tànn sa bula neex](https://www.tansaboulanekh.org)
+* [Tànn Sa Bula Neex](https://www.tansaboulanekh.org)
+* [Sources de Données du Sénégal](https://sources.codeforsenegal.org)
 
 ## [Kaay waxtan !](https://github.com/Code-for-Senegal/kaaycoder/discussions/1)
 
