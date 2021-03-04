@@ -1,6 +1,10 @@
 # Kaaycoder
 Nous utilisons la technologie pour autonomiser les citoyens et renforcer les lanceurs d'alerte civiques pour aider le gouvernement à améliorer ses services aux citoyens.
 
+## Communauté
+
+Nous sommes une communauté de bénévoles (développeurs, ux / ui, communications, data scientists, graphistes, devops, sécurité informatique et plus) qui travaillent bénévolement pour développer des solutions digitales pour résoudre des problèmes sociaux. #techforsocialgood.
+
 ## [Nos données](https://github.com/senegalouvert)
 
 * [COVID-19](https://github.com/senegalouvert/COVID-19)
@@ -26,6 +30,10 @@ Nous utilisons la technologie pour autonomiser les citoyens et renforcer les lan
 
 * [Tànn Sa Bula Neex](https://www.tansaboulanekh.org)
 * [Sources de Données du Sénégal](https://sources.codeforsenegal.org)
+
+## Contribution
+
+Ce projet est construit par d'incroyables bénévoles et vous pouvez en faire partie! Voici [comment vous pouvez contribuer à ce projet](https://github.com/Code-for-Senegal/.github/blob/main/CONTRIBUTING.md).
 
 ## [Kaay waxtan !](https://github.com/Code-for-Senegal/kaaycoder/discussions/1)
 
