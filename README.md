@@ -16,7 +16,11 @@ Nous sommes une communauté de bénévoles (développeurs, ux / ui, communicatio
 * [Carte electorale 2019](https://github.com/senegalouvert/Carte-electorale-2019)
 * [...](https://github.com/senegalouvert)
 
-## [Notre code](https://github.com/Code-for-Senegal) 
+## [Notre code](https://github.com/Code-for-Senegal)
+
+* [Etat](https://github.com/Code-for-Senegal/etat)
+* [Clone servicepublic.gouv.sn](https://github.com/Code-for-Senegal/servicepublic)
+* [Tribute Freesenegal](https://github.com/Code-for-Senegal/tribute-freesenegal)
 
 ## Nos projets
 
