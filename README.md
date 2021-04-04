@@ -32,6 +32,7 @@ Nous sommes une communauté de bénévoles (développeurs, ux / ui, communicatio
 
 ## Nos plateformes
 
+* [Annuaire des sites publics du Sénégal](https://etat.codeforsenegal.org)
 * [Tànn Sa Bula Neex](https://www.tansaboulanekh.org)
 * [Sources de Données du Sénégal](https://sources.codeforsenegal.org)
 
