@@ -5,6 +5,13 @@ Nous utilisons la technologie pour autonomiser les citoyens et renforcer les lan
 
 Nous sommes une communauté de bénévoles (développeurs, ux / ui, communications, data scientists, graphistes, devops, sécurité informatique et plus) qui travaillent bénévolement pour développer des solutions digitales pour résoudre des problèmes sociaux. #techforsocialgood.
 
+## Nos Organisations
+
+* [senegalouvert](https://github.com/senegalouvert)
+* [KaayCoder](https://github.com/KaayCoder)
+* [OpenCOVID19-Senegal](https://github.com/OpenCOVID19-Senegal)
+* [Code-for-Senegal](https://github.com/Code-for-Senegal)
+
 ## [Nos données](https://github.com/senegalouvert)
 
 * [COVID-19](https://github.com/senegalouvert/COVID-19)
@@ -20,6 +27,7 @@ Nous sommes une communauté de bénévoles (développeurs, ux / ui, communicatio
 
 * [Etat](https://github.com/Code-for-Senegal/etat)
 * [Clone servicepublic.gouv.sn](https://github.com/Code-for-Senegal/servicepublic)
+* [civRegister](https://github.com/Code-for-Senegal/civRegister)
 * [Tribute Freesenegal](https://github.com/Code-for-Senegal/tribute-freesenegal)
 
 ## Nos projets
